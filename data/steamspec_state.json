@@ -3495,7 +3495,7 @@
       "gpu_model": "NVIDIA GeForce RTX 4060 8GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
       "summary": "The Path of Exile 2 (4K Path-Tracing & Max Settings Rig) hardware package is configured for 4K UHD resolution, full ray reconstruction, and frame generation, matching official Steam requirements (16GB RAM, 100GB SSD, NVIDIA GeForce RTX 4060 8GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4060 8GB",
@@ -3506,8 +3506,8 @@
       },
       "buy_if": "You want to play Path of Exile 2 (Isometric Action RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0122",
@@ -3519,12 +3519,12 @@
       "cat_slug": "graphics-cards-gpus",
       "sub_slug": "4k-ray-tracing-gpus",
       "subcategory": "4K Path-Tracing & Max Settings Rig",
-      "ram_gb": 32,
+      "ram_gb": 16,
       "storage_gb": 120,
       "gpu_model": "NVIDIA GeForce RTX 4080 Super 16GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
       "summary": "The Indiana Jones and the Great Circle (4K Path-Tracing & Max Settings Rig) hardware package is configured for 4K UHD resolution, full ray reconstruction, and frame generation, matching official Steam requirements (32GB RAM, 120GB SSD, NVIDIA GeForce RTX 4080 Super 16GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4080 Super 16GB",
@@ -3535,8 +3535,8 @@
       },
       "buy_if": "You want to play Indiana Jones and the Great Circle (Ray-Traced Adventure) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0123",
@@ -3548,12 +3548,12 @@
       "cat_slug": "gaming-memory-ram",
       "sub_slug": "32gb-ddr5-6000-gaming-ram",
       "subcategory": "4K Path-Tracing & Max Settings Rig",
-      "ram_gb": 32,
+      "ram_gb": 16,
       "storage_gb": 100,
       "gpu_model": "NVIDIA GeForce RTX 4070 Super 12GB",
       "cpu_model": "AMD Ryzen 7 7800X3D",
       "controller": "full",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
       "summary": "The Kingdom Come: Deliverance II (4K Path-Tracing & Max Settings Rig) hardware package is configured for 4K UHD resolution, full ray reconstruction, and frame generation, matching official Steam requirements (32GB RAM, 100GB SSD, NVIDIA GeForce RTX 4070 Super 12GB).",
       "specs": {
         "Recommended GPU Upgrade": "NVIDIA GeForce RTX 4070 Super 12GB",
@@ -3564,8 +3564,8 @@
       },
       "buy_if": "You want to play Kingdom Come: Deliverance II (Medieval Open-World RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0124",
@@ -3593,8 +3593,8 @@
       },
       "buy_if": "You want to play Civilization VII (4X Turn-Based Strategy) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0125",
@@ -3622,8 +3622,8 @@
       },
       "buy_if": "You want to play DOOM: The Dark Ages (Fast-Paced Arena FPS) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0126",
@@ -3651,8 +3651,8 @@
       },
       "buy_if": "You want to play Grand Theft Auto V Enhanced PC (Open World Action) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0127",
@@ -3680,8 +3680,8 @@
       },
       "buy_if": "You want to play Enshrouded (Co-Op Voxel Survival RPG) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0128",
@@ -3709,8 +3709,8 @@
       },
       "buy_if": "You want to play Manor Lords (Medieval City & Battle Sim) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0129",
@@ -3738,8 +3738,8 @@
       },
       "buy_if": "You want to play Total War: WARHAMMER III (Grand Strategy RTS) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0130",
@@ -3767,8 +3767,8 @@
       },
       "buy_if": "You want to play Street Fighter 6 (Competitive Fighting) with configured for 4K UHD resolution, full ray reconstruction, and frame generation without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0131",
@@ -3796,8 +3796,8 @@
       },
       "buy_if": "You want to play Cyberpunk 2077: Phantom Liberty (Action RPG) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0132",
@@ -3825,8 +3825,8 @@
       },
       "buy_if": "You want to play Elden Ring: Shadow of the Erdtree (Souls-like Action RPG) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0133",
@@ -3854,8 +3854,8 @@
       },
       "buy_if": "You want to play Black Myth: Wukong (Action RPG) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0134",
@@ -3883,8 +3883,8 @@
       },
       "buy_if": "You want to play Baldur's Gate 3 (CRPG Strategy) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0135",
@@ -3912,8 +3912,8 @@
       },
       "buy_if": "You want to play Helldivers 2 (Co-Op Tactical Shooter) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0136",
@@ -3941,8 +3941,8 @@
       },
       "buy_if": "You want to play Monster Hunter Wilds (Action Co-Op RPG) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0137",
@@ -3970,8 +3970,8 @@
       },
       "buy_if": "You want to play Microsoft Flight Simulator 2024 (Aviation Simulation) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0138",
@@ -3999,8 +3999,8 @@
       },
       "buy_if": "You want to play Call of Duty: Warzone & Black Ops 6 (Competitive FPS) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0139",
@@ -4028,8 +4028,8 @@
       },
       "buy_if": "You want to play Starfield: Shattered Space (Sci-Fi Open World RPG) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0140",
@@ -4057,8 +4057,8 @@
       },
       "buy_if": "You want to play Counter-Strike 2 (CS2) (Tactical Esports FPS) with optimized to eliminate shader stutter, asset pop-in, and 1% low frame drops without thermal throttling or VRAM bottlenecks.",
       "skip_if": "You only play lightweight 2D indie titles or cloud-stream via GeForce NOW.",
-      "published": false,
-      "published_at": ""
+      "published": true,
+      "published_at": "2026-10-31"
     },
     {
       "id": "SS-0141",
@@ -13146,7 +13146,47 @@
       "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for God of War Ragnarök PC, Final Fantasy XVI PC, Silent Hill 2 Remake, S.T.A.L.K.E.R. 2: Heart of Chornobyl.",
       "published_at": "2026-10-31",
       "url": "https://store77.github.io/steamspec-us/reviews/pc-hardware-upgrade-benchmark-comparison-c6-5.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c7-1",
+      "title": "Best PC Hardware Upgrades for Path of Exile 2, Indiana Jones and the Great Circle & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Path of Exile 2, Indiana Jones and the Great Circle, Kingdom Come: Deliverance II, Civilization VII.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec-us/reviews/pc-hardware-upgrade-benchmark-comparison-c7-1.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c7-2",
+      "title": "Best PC Hardware Upgrades for DOOM: The Dark Ages, Grand Theft Auto V Enhanced PC & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for DOOM: The Dark Ages, Grand Theft Auto V Enhanced PC, Enshrouded, Manor Lords.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec-us/reviews/pc-hardware-upgrade-benchmark-comparison-c7-2.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c7-3",
+      "title": "Best PC Hardware Upgrades for Total War: WARHAMMER III, Street Fighter 6 & More (2026 Guide)",
+      "category": "4K Path-Tracing & Max Settings Rig",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Total War: WARHAMMER III, Street Fighter 6, Cyberpunk 2077: Phantom Liberty, Elden Ring: Shadow of the Erdtree.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec-us/reviews/pc-hardware-upgrade-benchmark-comparison-c7-3.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c7-4",
+      "title": "Best PC Hardware Upgrades for Black Myth: Wukong, Baldur's Gate 3 & More (2026 Guide)",
+      "category": "DirectStorage Fast-Load Upgrade Kit",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Black Myth: Wukong, Baldur's Gate 3, Helldivers 2, Monster Hunter Wilds.",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec-us/reviews/pc-hardware-upgrade-benchmark-comparison-c7-4.html"
+    },
+    {
+      "slug": "pc-hardware-upgrade-benchmark-comparison-c7-5",
+      "title": "Best PC Hardware Upgrades for Microsoft Flight Simulator 2024, Call of Duty: Warzone & Black Ops 6 & More (2026 Guide)",
+      "category": "DirectStorage Fast-Load Upgrade Kit",
+      "excerpt": "Side-by-side GPU, CPU, DDR5 RAM & NVMe SSD matrix for Microsoft Flight Simulator 2024, Call of Duty: Warzone & Black Ops 6, Starfield: Shattered Space, Counter-Strike 2 (CS2).",
+      "published_at": "2026-10-31",
+      "url": "https://store77.github.io/steamspec-us/reviews/pc-hardware-upgrade-benchmark-comparison-c7-5.html"
     }
   ],
-  "cycle_count": 6
+  "cycle_count": 7
 }
